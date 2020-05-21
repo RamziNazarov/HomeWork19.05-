@@ -59,9 +59,12 @@ namespace HomeWork19._05
             };
             btnMPlus.Click += (s, a) =>
             {
-                if(!string.IsNullOrEmpty(txbRes.Text))
-                txbMem.Text = (!string.IsNullOrEmpty(txbMem.Text))?(double.Parse(txbMem.Text) + double.Parse(txbRes.Text)).ToString()
-                    :txbRes.Text;
+		if (double.TryParse(txbRes.Text, out A))
+		{
+                	if(!string.IsNullOrEmpty(txbRes.Text))
+                	txbMem.Text = (!string.IsNullOrEmpty(txbMem.Text))?(double.Parse(txbMem.Text) + double.Parse(txbRes.Text)).ToString()
+                	    :txbRes.Text;
+		}
             };
             btnPlusMinus.Click += AddNumber_Click;
             btnRes.Click += (s, a) =>
@@ -87,6 +90,8 @@ namespace HomeWork19._05
             {
                 if (txbRes.Text != "0")
                     txbRes.Text = (1 / double.Parse(txbRes.Text)).ToString();
+                else
+                    txbRes.Text = "На ноль делить нельзя!";
             };
         }
         double B = 0;
