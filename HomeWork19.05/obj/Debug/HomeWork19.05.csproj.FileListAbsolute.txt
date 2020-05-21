@@ -1,0 +1,10 @@
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\bin\Debug\HomeWork19.05.exe.config
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\bin\Debug\HomeWork19.05.exe
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\bin\Debug\HomeWork19.05.pdb
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\obj\Debug\HomeWork19.05.csprojAssemblyReference.cache
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\obj\Debug\HomeWork19._05.Form1.resources
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\obj\Debug\HomeWork19._05.Properties.Resources.resources
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\obj\Debug\HomeWork19.05.csproj.GenerateResource.cache
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\obj\Debug\HomeWork19.05.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\obj\Debug\HomeWork19.05.exe
+C:\Users\AB\source\repos\HomeWork19.05\HomeWork19.05\obj\Debug\HomeWork19.05.pdb
